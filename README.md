@@ -1,4 +1,4 @@
-# Laravel 11 輕量且注重隱私的產品分析
+# Laravel 12 輕量且注重隱私的產品分析
 
 引入 panphp 的 pan 套件來擴增輕量且注重隱私的產品分析，僅追蹤曝光次數、懸停次數和點擊次數事件，不會收集任何個人資訊息，例如 IP 位址、使用者代理或任何可識別個人的任何資訊。
 
@@ -30,8 +30,8 @@ $ php artisan pan
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/SDnYt59.png)
+![](https://i.imgur.com/keoxoC7.png)
 > 尚未記錄任何分析
 
-![](https://i.imgur.com/0OM59Bd.png)
+![](https://i.imgur.com/qNB1vkX.png)
 > 看到使用者和網站內容項目的互動頻率

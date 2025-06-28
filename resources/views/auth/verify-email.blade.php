@@ -14,7 +14,7 @@
             @csrf
 
             <div>
-                <x-primary-button data-pan="verify-email-resend-verification-email">
+                <x-primary-button data-pan="verify-email-resend-verification-email" data-pan="verify-email-resend-verification-email">
                     {{ __('Resend Verification Email') }}
                 </x-primary-button>
             </div>
